@@ -1,3 +1,5 @@
+#author Tarun Bisht
+
 #Compress class for storing different parameters of string
 class compress:
 	def __init__(self,correspond):
